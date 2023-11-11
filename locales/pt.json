@@ -1,0 +1,43 @@
+{
+  "utilities": {
+    "errorEmbed": "Erro",
+    "noInvitePerms": "Preciso da permissão para 'criar convites' para executar este comando.",
+    "unexpectedError": "Ocorreu um erro inesperado.",
+    "badRequest": "A solicitação não foi executada corretamente."
+  },
+  "commandDescriptions": {
+    "avatar": "Retorna o avatar de um usuário, ou o seu próprio.",
+    "lang": "Altera o idioma do servidor.",
+    "status": "Retorna o status do bot.",
+    "sessions": "Crie uma sessão de aplicativo dentro do Discord."
+  },
+  "avatar": {
+    "objective": "Avatar de {username} ",
+    "self": "Seu avatar"
+  },
+  "lang": {
+    "newLanguage": "Você selecionou um novo idioma.",
+    "noAdministrator": "Você não tem permissões suficientes para executar este comando.",
+    "noSelected": "Os idiomas suportados são **Espanhol, Inglês, Português.**"
+  },
+  "youtube": {
+    "noChannel": "Você precisa estar em um canal de voz para executar este comando.",
+    "loading": "Iniciando sessão do Youtube Together...",
+    "inviteMessage": "**[Clique aqui]({inviteLink} 'Link do Youtube')**"
+  },
+  "sessions": {
+    "reply": "Selecione um aplicativo para iniciar a sessão compartilhada."
+  },
+  "status": {
+    "getting": "Obtendo estado...",
+    "embedAuthor": "Estado de: {username}",
+    "performance": "Desempenho",
+    "system": "Sistema",
+    "os": "Sistema Operacional",
+    "users": "Usuários",
+    "servers": "Servidores",
+    "hostTime": "Tempo de atividade do host",
+    "botTime": "Tempo de atividade do bot",
+    "session": "Último Início"
+  }
+}

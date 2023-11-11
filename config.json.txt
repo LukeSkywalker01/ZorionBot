@@ -1,0 +1,14 @@
+// Cambia el nombre de este archivo a "config.json", después de que hagas todo, borra los comentarios, son los que estan en "//"
+
+
+// Token de tu bot, lo puedes encontrar aqui: https://discord.com/developers/applications NUNCA LO COMPARTAS
+
+{
+  "token": "TOKEN DEl BOT(OBLIGATORIO)",
+  "clientId": "ID DEL BOT(OBLIGATORIO)",
+  "guildId": "ID DEL SERVER(OPCIONAL)",
+  "defaultLanguage": "en", // Lenguaje predeterminado del cliente, en mi caso en(Ingles)
+  "defaultSuccessColor": "#00F000", // Color predeterminado cuando sale bien el embed, en mi caso morado
+  "defaultErrorColor": "#FF0000", // Color predeterminado cuando algo sale mal en el embed, en mi caso rojo
+  "mongoURL": "URL DE MONGODB"
+}
